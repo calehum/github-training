@@ -246,3 +246,5 @@ This is a new addtional line...what if I edit locally and also remotely... then 
 The answer: I recieved a merge conflict, and had to resolve it. This is the end result. 
 
 Now I am working with branches...
+
+Testing stash function
