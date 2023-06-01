@@ -240,4 +240,7 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 This is a new line for testing. 
-What happens if I edit here, and also edit locally?
+
+This is a new addtional line...what if I edit locally and also remotely... then push? Hmmmmmm
+
+The answer: I recieved a merge conflict, and had to resolve it. This is the end result. 
