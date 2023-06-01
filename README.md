@@ -247,4 +247,5 @@ The answer: I recieved a merge conflict, and had to resolve it. This is the end 
 
 Now I am working with branches...
 
-Testing stash function
+Testing stash
+
